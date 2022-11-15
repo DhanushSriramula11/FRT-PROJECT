@@ -46,7 +46,7 @@ https://red-sky-0c2f5b400.2.azurestaticapps.net
 
 
 
-### health bot
+### Health bot
 ![healthbot1](https://user-images.githubusercontent.com/97830853/201947065-6d92bbb8-22b4-47bf-a0fb-ea5aa0273574.png)
 ![healthbot2](https://user-images.githubusercontent.com/97830853/201947089-290d1af8-5d72-4dc5-966a-a20b08ad7c7d.png)
 
