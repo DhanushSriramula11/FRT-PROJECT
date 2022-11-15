@@ -7,7 +7,8 @@ This is a web based application developed for health related based website in in
 
 **Project Link** -
 https://red-sky-0c2f5b400.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** -
+https://drive.google.com/drive/folders/1GGfIhq062cBiO_FVBH5tRgEV1A-s5gU9?usp=sharing
 
 ## Azure technologies used for Project
 
